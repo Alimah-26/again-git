@@ -1,1 +1,1 @@
-print("This is a python file called pythin_script_1.py")
+print("This is a python file called python_script_1.py")
